@@ -1,4 +1,4 @@
-# Angel_OPortafolio
+# Portafolio de Angel Ajcabul
 Proyectos de análisis de datos y conceptos estadísticos aplicados a casos reales.
 
 # [Proyecto 1: AB testing vs Diseños factoriales](https://github.com/AngelOseas/curso-series-temporales)
