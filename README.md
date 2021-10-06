@@ -4,6 +4,7 @@ Proyectos de análisis de datos y conceptos estadísticos aplicados a casos real
 # [Proyecto 1: AB testing vs Diseños factoriales](https://github.com/AngelOseas/curso-series-temporales)
 Proyecto en el cual se contrastan las diferencias entre ambos métodos, con aplicación en el análisis de campañas por correo electrónico aplicadas a una empresa de telefonía. Este proyecto busca cumplir los siguientes objetivos:
 ![](images/carreta.png | width=100)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 * Mostrar las ventajas y desventajas del AB Testing.
 * Mostrar las ventajas y desevntajas de los diseños factoriales.
